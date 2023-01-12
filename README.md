@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thekingmass
 - 👀 I’m interested in Software developement and web development.
-- 🌱 I’m currently learning Python Django
+- 🌱 Currently shaking hands with React js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 mailTo - pratikkumar712@gmail.com
 
 <!---
 thekingmass/thekingmass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

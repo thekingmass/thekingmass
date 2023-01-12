@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thekingmass
 - 👀 I’m interested in Software developement and web development.
 - 🌱 Currently shaking hands with React js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ connect me on https://www.instagram/the_king_mass
 - 📫 mailTo - pratikkumar712@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thekingmass
+- 👋 Hi, I’m Pratik
 - 👨 My Portfolio - https://thekingmass.github.io/MyPortfolio/
 - 👀 I’m interested in Software developement and web development.
 - 🌱 Currently shaking hands with React js

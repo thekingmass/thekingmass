@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thekingmass
-- 👨 My Portfolio - https://www.thekingmass.github.io/MyPortfolio
+- 👨 My Portfolio - https://thekingmass.github.io/MyPortfolio/
 - 👀 I’m interested in Software developement and web development.
 - 🌱 Currently shaking hands with React js
 - 💞️ connect me on https://www.instagram.com/the_king_mass
